@@ -1,6 +1,6 @@
 # Chatbot de Finanças Básicas
 
-Chatbot educacional focado em explicar conceitos fundamentais do mercado financeiro de forma simples e acessível para iniciantes.
+Chatbot educacional focado em explicar conceitos fundamentais do mercado financeiro de forma simples e acessível 
 
 ## Objetivo do Projeto
 
@@ -54,3 +54,4 @@ Em desenvolvimento inicial.
 ## Autor
 
 Projeto desenvolvido para fins educacionais e de portfólio.
+
