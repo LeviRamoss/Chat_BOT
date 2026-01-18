@@ -49,9 +49,10 @@ Essa limitação garante simplicidade, clareza e foco educacional.
 
 ## Status do Projeto
 
-Em desenvolvimento inicial.
+Em desenvolvimento ( 50% )
 
 ## Autor
 
 Projeto desenvolvido para fins educacionais e de portfólio.
+
 
