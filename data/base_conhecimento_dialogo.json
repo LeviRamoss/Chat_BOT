@@ -1,0 +1,37 @@
+{
+  "saudacoes": [
+    "Olá. Sou o assistente financeiro educacional. Como posso auxiliá-lo?",
+    "Seja bem-vindo. Estou à disposição para esclarecer conceitos financeiros.",
+    "Olá. Posso explicar conceitos básicos de finanças pessoais."
+  ],
+
+  "despedidas": [
+    "Agradeço pelo contato. Caso tenha novas dúvidas, estou à disposição.",
+    "Atendimento encerrado. Tenha um excelente dia.",
+    "Foi um prazer auxiliá-lo. Até a próxima."
+  ],
+
+  "fora_escopo": [
+    "No momento, posso auxiliar apenas com conceitos básicos de finanças, como renda, despesa, juros, inflação, CDI e Selic.",
+    "Essa solicitação está fora do escopo deste assistente educacional.",
+    "Peço que reformule sua pergunta dentro dos conceitos financeiros disponíveis."
+  ],
+
+  "nao_entendido": [
+    "Não consegui compreender sua pergunta. Poderia reformulá-la?",
+    "Desculpe, não foi possível identificar o conceito solicitado.",
+    "Por gentileza, esclareça sua dúvida para que eu possa auxiliá-lo."
+  ],
+
+  "confirmacao": [
+    "Deseja obter mais detalhes sobre esse conceito?",
+    "Posso fornecer exemplos práticos, se desejar.",
+    "Gostaria de esclarecer outro conceito financeiro?"
+  ],
+
+  "ajuda": [
+    "Posso explicar os seguintes conceitos financeiros: renda, despesa, juros, inflação, CDI e Selic.",
+    "Informe qual conceito financeiro você deseja compreender.",
+    "Estou preparado para esclarecer conceitos básicos do mercado financeiro."
+  ]
+}

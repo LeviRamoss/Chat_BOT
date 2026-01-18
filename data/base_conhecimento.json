@@ -1,0 +1,64 @@
+{
+  "renda": {
+    "titulo": "Renda",
+    "definicao": "Renda é o total de recursos financeiros recebidos por um indivíduo ou entidade em um determinado período, proveniente de diversas fontes.",
+    "detalhamento": "A renda pode ser classificada em ativa, passiva ou transferências, e é fundamental para o planejamento financeiro pessoal e empresarial.",
+    "exemplos": [
+      "Salário mensal",
+      "Renda de trabalhos autônomos",
+      "Rendimentos de investimentos"
+    ]
+  },
+
+  "despesa": {
+    "titulo": "Despesa",
+    "definicao": "Despesa é todo gasto realizado para a manutenção das necessidades pessoais ou operacionais, reduzindo o saldo financeiro disponível.",
+    "detalhamento": "As despesas podem ser classificadas como fixas ou variáveis e devem ser monitoradas para garantir o equilíbrio financeiro.",
+    "exemplos": [
+      "Aluguel",
+      "Conta de energia elétrica",
+      "Alimentação"
+    ]
+  },
+
+  "juros": {
+    "titulo": "Juros",
+    "definicao": "Juros representam o custo do dinheiro ao longo do tempo ou a remuneração recebida pelo empréstimo de um valor.",
+    "detalhamento": "Os juros podem ser simples ou compostos, sendo os juros compostos amplamente utilizados em operações financeiras e investimentos.",
+    "exemplos": [
+      "Juros de empréstimos bancários",
+      "Juros do cartão de crédito",
+      "Rendimento de aplicações financeiras"
+    ]
+  },
+
+  "inflacao": {
+    "titulo": "Inflação",
+    "definicao": "Inflação é o aumento generalizado e contínuo dos preços de bens e serviços ao longo do tempo, reduzindo o poder de compra da moeda.",
+    "detalhamento": "No Brasil, a inflação é medida principalmente pelo IPCA, utilizado como referência para decisões econômicas.",
+    "exemplos": [
+      "Aumento do preço dos alimentos",
+      "Elevação dos custos de serviços básicos"
+    ]
+  },
+
+  "cdi": {
+    "titulo": "CDI",
+    "definicao": "O CDI é a taxa de juros utilizada em operações de empréstimos entre instituições financeiras, servindo como referência para diversos investimentos.",
+    "detalhamento": "Grande parte dos investimentos de renda fixa no Brasil utiliza o CDI como índice de rentabilidade.",
+    "exemplos": [
+      "CDB atrelado ao CDI",
+      "Fundos de renda fixa"
+    ]
+  },
+
+  "selic": {
+    "titulo": "Selic",
+    "definicao": "A Selic é a taxa básica de juros da economia brasileira, definida pelo Banco Central.",
+    "detalhamento": "A Selic influencia o custo do crédito, a rentabilidade dos investimentos e é utilizada como principal instrumento de controle da inflação.",
+    "exemplos": [
+      "Tesouro Selic",
+      "Taxas de juros bancárias"
+    ]
+  }
+}
